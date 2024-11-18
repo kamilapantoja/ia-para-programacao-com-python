@@ -1,0 +1,36 @@
+Nome: João da Silva
+E-mail: joaosilva@example.com
+Telefone: (11) 98765-4321
+LinkedIn: linkedin.com/in/joaosilva
+
+Objetivo:
+Profissional de TI com mais de 5 anos de experiência em desenvolvimento web, buscando uma posição de desenvolvedor full stack para aplicar minhas habilidades técnicas e conhecimentos em projetos desafiadores.
+
+Experiência Profissional:
+
+Desenvolvedor Web | Empresa XYZ | São Paulo, SP
+Março de 2019 – Presente
+- Desenvolvimento de aplicações web utilizando JavaScript, HTML, CSS e frameworks como React e Node.js.
+- Colaboração com equipes de design e back-end para entregar funcionalidades de acordo com os requisitos do cliente.
+- Otimização de desempenho das aplicações, resultando em um aumento de 30% na velocidade de carregamento das páginas.
+- Implementação de testes automatizados, reduzindo o número de bugs em produção em 20%.
+
+Analista de Suporte Técnico | Empresa ABC | São Paulo, SP
+Janeiro de 2017 – Fevereiro de 2019
+- Prestação de suporte técnico para clientes internos, resolvendo problemas de software e hardware com uma taxa de satisfação de 95%.
+- Gerenciamento de atualizações e manutenção de sistemas, garantindo 99% de tempo de atividade dos servidores.
+- Criação de documentação técnica para novos processos e treinamentos.
+
+Educação:
+
+Bacharelado em Ciência da Computação | Universidade XYZ | Conclusão: 2016
+
+Habilidades Técnicas:
+- Linguagens de Programação: JavaScript, Python, PHP
+- Frameworks: React, Node.js, Express
+- Banco de Dados: MySQL, MongoDB
+- Ferramentas: Git, Docker, Jenkins
+
+Idiomas:
+- Português: Nativo
+- Inglês: Avançado

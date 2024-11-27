@@ -3,8 +3,7 @@ def set_light_values(brightness: int, color_temperature: str) -> dict:
     """
     Ajusta a luminosidade e a temperatura de cor das luzes.
     """
-    # Simula o ajuste de luzes
-    print("Modificou as luzes")
+    print("Modificou as cores das luzes da casa")
     return {"brightness": brightness, "color_temperature": color_temperature}
 def intruder_alert() -> dict:
     """
